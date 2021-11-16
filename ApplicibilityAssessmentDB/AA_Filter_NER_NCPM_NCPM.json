@@ -1,0 +1,10 @@
+[{'id': '1',
+  'Noun_Entity_Ruler': 'the Bank of Mozambique',
+  'Noun_Entity_Ruler_Label': 'ORG',
+  'Noun_Chunk_Phrase_Matcher_1': 'treasury bills',
+  'Noun_Chunk_Phrase_Matcher_2': 'auction',
+  '_rid': 'ti8BAJYOj2sBAAAAAAAAAA==',
+  '_self': 'dbs/ti8BAA==/colls/ti8BAJYOj2s=/docs/ti8BAJYOj2sBAAAAAAAAAA==/',
+  '_etag': '"0000bb07-0000-3000-0000-616fd6380000"',
+  '_attachments': 'attachments/',
+  '_ts': 1634719288}]
