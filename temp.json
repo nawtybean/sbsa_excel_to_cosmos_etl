@@ -1,0 +1,12 @@
+{"NER":"The Constitutional Court","Label":"ORG","NC":"employees","Impacted_Area":"Human Capital"}
+{"NER":"the South African Bureau of Standards","Label":"ORG","NC":"information technology","Impacted_Area":"IT"}
+{"NER":"The Financial Sector Conduct Authority","Label":"ORG","NC":"margin requirements","Impacted_Area":"Securities and Market Abuse"}
+{"NER":"The Financial Sector Conduct Authority","Label":"ORG","NC":"the OTC derivatives market","Impacted_Area":"Securities and Market Abuse"}
+{"NER":"The Constitutional Court","Label":"ORG","NC":"provisional trustees","Impacted_Area":"collections"}
+{"NER":"The Constitutional Court","Label":"ORG","NC":"liquidators","Impacted_Area":"collections"}
+{"NER":"The Financial Sector Conduct Authority","Label":"ORG","NC":"statutory returns","Impacted_Area":"Conduct"}
+{"NER":"The National Treasury","Label":"ORG","NC":"special economic zones","Impacted_Area":"Informational"}
+{"NER":"The Financial Sector Conduct Authority","Label":"ORG","NC":"gratification","Impacted_Area":"Conduct"}
+{"NER":"the Department of Communications","Label":"ORG","NC":"the public broadcasting policy","Impacted_Area":"Informational"}
+{"NER":"The Supreme Court of Appeal","Label":"ORG","NC":"gross income","Impacted_Area":"Tax"}
+{"NER":"the Prudential Authority","Label":"ORG","NC":"insurers","Impacted_Area":"Insurance"}
