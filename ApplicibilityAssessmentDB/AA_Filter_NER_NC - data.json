@@ -1,0 +1,211 @@
+[
+   {
+      "id":"1",
+      "Noun_Entity_Ruler":"the Bargaining Council",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"the Restaurant",
+      "_rid":"ti8BAMqcvMEBAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEBAAAAAAAAAA==/",
+      "_etag":"\"00007102-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"2",
+      "Noun_Entity_Ruler":"the Competition Commission",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"public passenger transport",
+      "_rid":"ti8BAMqcvMECAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMECAAAAAAAAAA==/",
+      "_etag":"\"00007202-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"3",
+      "Noun_Entity_Ruler":"the Independent Communications Authority of South Africa",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"postal services",
+      "_rid":"ti8BAMqcvMEDAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEDAAAAAAAAAA==/",
+      "_etag":"\"00007302-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"4",
+      "Noun_Entity_Ruler":"the Independent Communications Authority of South Africa",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"high demand spectrum",
+      "_rid":"ti8BAMqcvMEEAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEEAAAAAAAAAA==/",
+      "_etag":"\"00007402-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"5",
+      "Noun_Entity_Ruler":"the Independent Communications Authority of South Africa",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"mobile services",
+      "_rid":"ti8BAMqcvMEFAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEFAAAAAAAAAA==/",
+      "_etag":"\"00007502-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"6",
+      "Noun_Entity_Ruler":"the Independent Communications Authority of South Africa",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"call termination amendment regulations",
+      "_rid":"ti8BAMqcvMEGAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEGAAAAAAAAAA==/",
+      "_etag":"\"00007602-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"7",
+      "Noun_Entity_Ruler":"the Independent Communications Authority of South Africa",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"the End-user and subscriber service charter",
+      "_rid":"ti8BAMqcvMEHAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEHAAAAAAAAAA==/",
+      "_etag":"\"00007702-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"8",
+      "Noun_Entity_Ruler":"the International Public Sector Accounting Standards Board",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"IPSASB",
+      "_rid":"ti8BAMqcvMEIAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEIAAAAAAAAAA==/",
+      "_etag":"\"00007802-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"9",
+      "Noun_Entity_Ruler":"the Johannesburg Stock Exchange",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"debt listings requirements",
+      "_rid":"ti8BAMqcvMEJAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEJAAAAAAAAAA==/",
+      "_etag":"\"00007902-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"10",
+      "Noun_Entity_Ruler":"the Johannesburg Stock exchange",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"trading platform",
+      "_rid":"ti8BAMqcvMEKAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEKAAAAAAAAAA==/",
+      "_etag":"\"00007a02-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"11",
+      "Noun_Entity_Ruler":"National Treasury",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"public procurement contracts",
+      "_rid":"ti8BAMqcvMELAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMELAAAAAAAAAA==/",
+      "_etag":"\"00007b02-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"12",
+      "Noun_Entity_Ruler":"Planning Profession Act",
+      "Noun_Entity_Ruler_Label":"LAW",
+      "Noun_Chunk":"the professional planning industry",
+      "_rid":"ti8BAMqcvMEMAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEMAAAAAAAAAA==/",
+      "_etag":"\"00007c02-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"13",
+      "Noun_Entity_Ruler":"the Special Economic Zones Act",
+      "Noun_Entity_Ruler_Label":"LAW",
+      "Noun_Chunk":"SEZ",
+      "_rid":"ti8BAMqcvMENAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMENAAAAAAAAAA==/",
+      "_etag":"\"00007d02-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"14",
+      "Noun_Entity_Ruler":"the Special Economic Zones Act",
+      "Noun_Entity_Ruler_Label":"LAW",
+      "Noun_Chunk":"a Special Economic Zones",
+      "_rid":"ti8BAMqcvMEOAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEOAAAAAAAAAA==/",
+      "_etag":"\"00007e02-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"15",
+      "Noun_Entity_Ruler":"The Companies Act",
+      "Noun_Entity_Ruler_Label":"LAW",
+      "Noun_Chunk":"dissenting shareholders",
+      "_rid":"ti8BAMqcvMEPAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEPAAAAAAAAAA==/",
+      "_etag":"\"00007f02-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"16",
+      "Noun_Entity_Ruler":"the Financial Services Board",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"annual report",
+      "_rid":"ti8BAMqcvMEQAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMEQAAAAAAAAAA==/",
+      "_etag":"\"00008002-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"17",
+      "Noun_Entity_Ruler":"The South African Reserve Bank",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"a representative office",
+      "_rid":"ti8BAMqcvMERAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMERAAAAAAAAAA==/",
+      "_etag":"\"00008102-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"18",
+      "Noun_Entity_Ruler":"the Type Approval Regulations",
+      "Noun_Entity_Ruler_Label":"LAW",
+      "Noun_Chunk":"the Independent Communications Authority",
+      "_rid":"ti8BAMqcvMESAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMESAAAAAAAAAA==/",
+      "_etag":"\"00008202-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   },
+   {
+      "id":"19",
+      "Noun_Entity_Ruler":"The Bank of Mozambique",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"the repartition",
+      "_rid":"ti8BAMqcvMETAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMqcvME=/docs/ti8BAMqcvMETAAAAAAAAAA==/",
+      "_etag":"\"00008302-0000-3000-0000-616ecf380000\"",
+      "_attachments":"attachments/",
+      "_ts":1634651960
+   }
+]

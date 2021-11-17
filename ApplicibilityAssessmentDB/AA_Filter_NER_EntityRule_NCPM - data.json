@@ -1,0 +1,13 @@
+[
+   {
+      "id":"1",
+      "Noun_Entity_Ruler":"Bargaining Council",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk_Phrase_Matcher":"furniture",
+      "_rid":"ti8BAMUKhVwBAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAMUKhVw=/docs/ti8BAMUKhVwBAAAAAAAAAA==/",
+      "_etag":"\"0000410f-0000-3000-0000-616fd5330000\"",
+      "_attachments":"attachments/",
+      "_ts":1634719027
+   }
+]
