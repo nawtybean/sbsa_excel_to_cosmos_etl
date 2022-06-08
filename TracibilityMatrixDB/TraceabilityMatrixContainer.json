@@ -1,0 +1,38 @@
+[
+   {
+      "id":"e712c70b-845a-447e-bf7b-839a190bca7e",
+      "Alerts":[
+         "e712c70b-845a-447e-bf7b-839a190bca7e",
+         "410a21af-075a-4e58-8dde-7ba7c6cc4a6a"
+      ],
+      "PrimaryAct":"Act 1",
+      "SourceAct":"Act 2",
+      "TMDate":"2021-11-04T20:27:53.6089631Z",
+      "Jurisdiction":"test",
+      "AssignedTo":"dcc20ab7-0039-43ab-a5a5-40a51c49b102",
+      "Status":0,
+      "_rid":"XKJ0AL4+0WYCAAAAAAAAAA==",
+      "_self":"dbs/XKJ0AA==/colls/XKJ0AL4+0WY=/docs/XKJ0AL4+0WYCAAAAAAAAAA==/",
+      "_etag":"\"3a004d7b-0000-3000-0000-618d41680000\"",
+      "_attachments":"attachments/",
+      "_ts":1636647272
+   },
+   {
+      "id":"e718c70b-845a-447e-bf7b-839a190bca7e",
+      "Alerts":[
+         "598bee6c-eb05-486d-9bb3-385f51e670ba",
+         "410a21af-075a-4e58-8dde-7ba7c6cc4a6a"
+      ],
+      "PrimaryAct":"Credit Rating Services Act 24 of 2012",
+      "SourceAct":"Financial Sector Regulation Act 9 of 2017",
+      "TMDate":"2021-11-04T20:27:53.6089631Z",
+      "Jurisdiction":"South Africa",
+      "AssignedTo":"dcc20ab7-0039-43ab-a5a5-40a51c49b102",
+      "Status":0,
+      "_rid":"XKJ0AL4+0WYEAAAAAAAAAA==",
+      "_self":"dbs/XKJ0AA==/colls/XKJ0AL4+0WY=/docs/XKJ0AL4+0WYEAAAAAAAAAA==/",
+      "_etag":"\"3a00aa7c-0000-3000-0000-618e47090000\"",
+      "_attachments":"attachments/",
+      "_ts":1636714249
+   }
+]

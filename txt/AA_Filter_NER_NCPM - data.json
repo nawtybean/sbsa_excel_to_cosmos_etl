@@ -1,0 +1,90 @@
+[
+   {
+      "id":"1",
+      "Noun_Entity_Ruler":"Ombudsman",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"annual report",
+      "_rid":"ti8BANEYAHIBAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BANEYAHI=/docs/ti8BANEYAHIBAAAAAAAAAA==/",
+      "_etag":"\"5201b61a-0000-3000-0000-616fd4ba0000\"",
+      "_attachments":"attachments/",
+      "_ts":1634718906
+   },
+   {
+      "id":"2",
+      "Noun_Entity_Ruler":"The Bank of Namibia",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"updated economic",
+      "_rid":"ti8BANEYAHICAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BANEYAHI=/docs/ti8BANEYAHICAAAAAAAAAA==/",
+      "_etag":"\"5201b71a-0000-3000-0000-616fd4ba0000\"",
+      "_attachments":"attachments/",
+      "_ts":1634718906
+   },
+   {
+      "id":"3",
+      "Noun_Entity_Ruler":"The Bank of Namibia",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"economic update",
+      "_rid":"ti8BANEYAHIDAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BANEYAHI=/docs/ti8BANEYAHIDAAAAAAAAAA==/",
+      "_etag":"\"5201b81a-0000-3000-0000-616fd4ba0000\"",
+      "_attachments":"attachments/",
+      "_ts":1634718906
+   },
+   {
+      "id":"4",
+      "Noun_Entity_Ruler":"The National Bank of Angola",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"auction",
+      "_rid":"ti8BANEYAHIEAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BANEYAHI=/docs/ti8BANEYAHIEAAAAAAAAAA==/",
+      "_etag":"\"5201b91a-0000-3000-0000-616fd4ba0000\"",
+      "_attachments":"attachments/",
+      "_ts":1634718906
+   },
+   {
+      "id":"5",
+      "Noun_Entity_Ruler":"the Basel Committee on Banking Supervision",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"progress report",
+      "_rid":"ti8BANEYAHIFAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BANEYAHI=/docs/ti8BANEYAHIFAAAAAAAAAA==/",
+      "_etag":"\"5201ba1a-0000-3000-0000-616fd4ba0000\"",
+      "_attachments":"attachments/",
+      "_ts":1634718906
+   },
+   {
+      "id":"6",
+      "Noun_Entity_Ruler":"the Independent Communications Authority of South Africa",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"postal services",
+      "_rid":"ti8BANEYAHIGAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BANEYAHI=/docs/ti8BANEYAHIGAAAAAAAAAA==/",
+      "_etag":"\"5201bb1a-0000-3000-0000-616fd4ba0000\"",
+      "_attachments":"attachments/",
+      "_ts":1634718906
+   },
+   {
+      "id":"7",
+      "Noun_Entity_Ruler":"the Independent Communications Authority of South Africa",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"high demand spectrum",
+      "_rid":"ti8BANEYAHIHAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BANEYAHI=/docs/ti8BANEYAHIHAAAAAAAAAA==/",
+      "_etag":"\"5201bc1a-0000-3000-0000-616fd4ba0000\"",
+      "_attachments":"attachments/",
+      "_ts":1634718906
+   },
+   {
+      "id":"8",
+      "Noun_Entity_Ruler":"the Independent Communications Authority of South Africa",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk":"mobile services",
+      "_rid":"ti8BANEYAHIIAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BANEYAHI=/docs/ti8BANEYAHIIAAAAAAAAAA==/",
+      "_etag":"\"5201bd1a-0000-3000-0000-616fd4ba0000\"",
+      "_attachments":"attachments/",
+      "_ts":1634718906
+   }
+]

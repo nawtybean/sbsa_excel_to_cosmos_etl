@@ -1,0 +1,13 @@
+[
+   {
+      "id":"1",
+      "Noun_Entity_Ruler":"the Bank of Mozambique",
+      "Noun_Entity_Ruler_Label":"ORG",
+      "Noun_Chunk_Phrase_Matcher_1":"policy",
+      "_rid":"ti8BAN3ZCBcBAAAAAAAAAA==",
+      "_self":"dbs/ti8BAA==/colls/ti8BAN3ZCBc=/docs/ti8BAN3ZCBcBAAAAAAAAAA==/",
+      "_etag":"\"0000e509-0000-3000-0000-616fd6650000\"",
+      "_attachments":"attachments/",
+      "_ts":1634719333
+   }
+]
